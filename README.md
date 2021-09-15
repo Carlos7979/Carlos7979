@@ -1,5 +1,10 @@
-### Hi there 👋
-<h1>Hola soy Carlos</h1>
+# Carlos Corredor
+## Full Stack Developer
+## Ingeniero Geofísico
+## Técnico Medio en Electrónica
+
+Después de 25 años enseñando matemáticas, física, redes eléctricas e instrumentación geofísica; ahora me encuentro incursionando en el universo de la programación como desarrollador web
+
 <!--
 **Carlos7979/Carlos7979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
