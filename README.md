@@ -3,6 +3,8 @@
 #### Ingeniero Geofísico
 #### Técnico Medio en Electrónica
 
+---
+
 Después de 25 años enseñando matemáticas, física, redes eléctricas e instrumentación geofísica; me encuentro incursionando en el universo de la programación como desarrollador web
 
 ## Proyectos
