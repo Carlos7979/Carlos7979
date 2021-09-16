@@ -9,8 +9,11 @@ Después de 25 años enseñando matemáticas, física, redes eléctricas e instr
 
 ## Proyectos
 
-
-[Control de flujos de módulos de control electrónicos](https://github.com/Carlos7979/cf-mce/blob/develop/cf-mce-doc/README.md)
+[Food calendar](https://github.com/AgustinKowalczuk/PG-FoodCalendar/tree/CopiaSeguridad)
+[Dogs](https://github.com/Carlos7979/PI-Dogs-FT15a)
+[Control de flujos de módulos de control electrónicos](https://github.com/Carlos7979/cf-mce/tree/develop)
+[E-commerce Nozama](https://github.com/Carlos7979/skylab-bootcamp-201904/tree/develop/staff/groups/nozama/nozama-app)
+[Agenda del día](https://github.com/Carlos7979/check-list/tree/develop)
 
 <!--
 **Carlos7979/Carlos7979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
