@@ -7,12 +7,8 @@
 
 Después de 25 años enseñando matemáticas, física, redes eléctricas e instrumentación geofísica; me encuentro incursionando en el universo de la programación como desarrollador web
 
----
 ## Contacto
 
-
-
----
 ## Tecnologías
 
 
@@ -27,7 +23,6 @@ Después de 25 años enseñando matemáticas, física, redes eléctricas e instr
   <li><a href="https://github.com/Carlos7979/check-list/tree/develop" target="_blank">Agenda del día</a></li>
 </ul>
 
----
 ## CV
 
 <!--
