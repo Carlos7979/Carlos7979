@@ -11,10 +11,10 @@ Después de 25 años enseñando matemáticas, física, redes eléctricas e instr
 []()
 <ul>
   <li><a href="https://github.com/AgustinKowalczuk/PG-FoodCalendar/tree/CopiaSeguridad" target="_blank">Food calendar</a></li>
-  <li>[Dogs](https://github.com/Carlos7979/PI-Dogs-FT15a)</li>
-  <li>[Control de flujos de módulos de control electrónicos](https://github.com/Carlos7979/cf-mce/tree/develop)</li>
-  <li>[E-commerce Nozama](https://github.com/Carlos7979/skylab-bootcamp-201904/tree/develop/staff/groups/nozama/nozama-app)</li>
-  <li>[Agenda del día](https://github.com/Carlos7979/check-list/tree/develop)</li>
+  <li><a href="https://github.com/Carlos7979/PI-Dogs-FT15a" target="_blank">Dogs</a></li>
+  <li><a href="https://github.com/Carlos7979/cf-mce/tree/develop" target="_blank">Control de flujos de módulos de control electrónicos</a></li>
+  <li><a href="https://github.com/Carlos7979/skylab-bootcamp-201904/tree/develop/staff/groups/nozama/nozama-app" target="_blank">E-commerce Nozama</a></li>
+  <li><a href="https://github.com/Carlos7979/check-list/tree/develop" target="_blank">Agenda del día</a></li>
 </ul>
 
 <!--
