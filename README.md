@@ -8,9 +8,9 @@
 Después de 25 años enseñando matemáticas, física, redes eléctricas e instrumentación geofísica; me encuentro incursionando en el universo de la programación como desarrollador web
 
 ## Proyectos
-
+[]()
 <ul>
-  <li>[Food calendar](https://github.com/AgustinKowalczuk/PG-FoodCalendar/tree/CopiaSeguridad)</li>
+  <li><a href="https://github.com/AgustinKowalczuk/PG-FoodCalendar/tree/CopiaSeguridad" target="_blank">Food calendar</a></li>
   <li>[Dogs](https://github.com/Carlos7979/PI-Dogs-FT15a)</li>
   <li>[Control de flujos de módulos de control electrónicos](https://github.com/Carlos7979/cf-mce/tree/develop)</li>
   <li>[E-commerce Nozama](https://github.com/Carlos7979/skylab-bootcamp-201904/tree/develop/staff/groups/nozama/nozama-app)</li>
