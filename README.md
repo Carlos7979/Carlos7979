@@ -23,7 +23,7 @@ Después de 25 años enseñando matemáticas, física, redes eléctricas e instr
   <li><a href="https://github.com/Carlos7979/check-list/tree/develop" target="_blank">Agenda del día</a></li>
 </ul>
 
-## CV
+## [CV](./downloads/Curriculum-Carlos-Corredor.pdf)
 
 <!--
 **Carlos7979/Carlos7979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
