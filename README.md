@@ -10,7 +10,7 @@ Después de 25 años enseñando matemáticas, física, redes eléctricas e instr
 ## Proyectos
 
 
-https://github.com/Carlos7979/cf-mce/blob/develop/cf-mce-doc/README.md
+[Control de flujos de módulos de control electrónicos](https://github.com/Carlos7979/cf-mce/blob/develop/cf-mce-doc/README.md)
 
 <!--
 **Carlos7979/Carlos7979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
