@@ -3,7 +3,12 @@
 ### Ingeniero Geofísico
 ### Técnico Medio en Electrónica
 
-Después de 25 años enseñando matemáticas, física, redes eléctricas e instrumentación geofísica; ahora me encuentro incursionando en el universo de la programación como desarrollador web
+Después de 25 años enseñando matemáticas, física, redes eléctricas e instrumentación geofísica; me encuentro incursionando en el universo de la programación como desarrollador web
+
+## Proyectos
+
+
+https://github.com/Carlos7979/cf-mce/blob/develop/cf-mce-doc/README.md
 
 <!--
 **Carlos7979/Carlos7979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
