@@ -10,7 +10,7 @@ Después de 25 años enseñando matemáticas, física, redes eléctricas e instr
 ---
 ## Contacto
 
-<a href="https://t.me/carloscorredorwg">
+<a href="https://t.me/carloscorredorwg" title="Telegram">
   <img
     src="https://media-public.canva.com/Pokwo/MADnBlPokwo/4/t.png"
     alt="Telegram"
@@ -19,7 +19,7 @@ Después de 25 años enseñando matemáticas, física, redes eléctricas e instr
   />
 </a>
 
-<a href="http://gmail.com">
+<a href="mailto:carloscorredorwg@gmail.com"  title="Email">
   <img
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Email_Shiny_Icon.svg/384px-Email_Shiny_Icon.svg.png"
     alt="Email"
@@ -28,7 +28,7 @@ Después de 25 años enseñando matemáticas, física, redes eléctricas e instr
   />
 </a>
 
-<a href="https://www.linkedin.com/in/carlos-corredor-78b273189/">
+<a href="https://www.linkedin.com/in/carlos-corredor-78b273189/"  title="Linkedin">
   <img
     src="https://e7.pngegg.com/pngimages/624/759/png-clipart-linkedin-computer-icons-logo-social-networking-service-facebook-miscellaneous-blue.png"
     alt="Linkedin"
