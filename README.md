@@ -28,7 +28,8 @@ Después de 25 años enseñando matemáticas, física, redes eléctricas e instr
   />
 </a>
 
-<a href="https://www.linkedin.com/in/carlos-corredor-78b273189/"  title="Linkedin">
+<!-- <a href="https://www.linkedin.com/in/carlos-corredor-78b273189/"  title="Linkedin"> -->
+<a href="https://www.linkedin.com/in/carloscorredorwg/"  title="Linkedin">
   <img
     src="https://e7.pngegg.com/pngimages/624/759/png-clipart-linkedin-computer-icons-logo-social-networking-service-facebook-miscellaneous-blue.png"
     alt="Linkedin"
