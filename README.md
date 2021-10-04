@@ -126,7 +126,7 @@ style="border: solid 1px; border-radius: 5px; background: olive; padding: 5px; m
   style="margin: 0 10px;"
  />
  <img
-  src="https://media-private.canva.com/aN6Og/MAEqBBaN6Og/1/t.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20210916%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210916T072727Z&X-Amz-Expires=45804&X-Amz-Signature=a750d1e0f4ea127ac566740f9524d705270387231a3e879983c3aa5ae0bfa8e5&X-Amz-SignedHeaders=host&response-expires=Thu%2C%2016%20Sep%202021%2020%3A10%3A51%20GMT"
+  src="./images/jasmine.png"
   alt="Jasmine"
   height="50"
   style="margin: 0 10px;"
