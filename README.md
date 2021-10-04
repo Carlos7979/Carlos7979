@@ -1,11 +1,11 @@
 # Carlos Corredor
 ### Full Stack Developer
-#### Ingeniero Geofísico
-#### Técnico Medio en Electrónica
+#### Ingeniería Geofísica
+#### Electrónica
 
 ---
 
-Después de 25 años enseñando matemáticas, física, redes eléctricas e instrumentación geofísica; me encuentro incursionando en el universo de la programación como desarrollador web
+Después de 25 años enseñando matemáticas, física, redes eléctricas e instrumentación geofísica, ahora me dedico al apasionante mundo de la programación como desarrollador web en las siguientes tecnologías: Javascript, React, Redux, Sass, Less, Node, Express, MongoDB, Mongoose, PostgreSQL, Sequelize.
 
 ---
 ## Contacto
@@ -36,7 +36,7 @@ Después de 25 años enseñando matemáticas, física, redes eléctricas e instr
     style="margin: 0 10px;"
   />
 </a>
-<br/>
+<!-- <br/>
 <a src="https://t.me/carloscorredorwg" style="text-decoration: none; cursor: pointer;">
   <span style="padding: 5px; margin: 10px 5px; line-height:4;">Telegram</span>
 </a>
@@ -45,7 +45,7 @@ Después de 25 años enseñando matemáticas, física, redes eléctricas e instr
 </a>
 <a src="https://www.linkedin.com/in/carlos-corredor-78b273189/" style="text-decoration: none; cursor: pointer;">
   <span style="padding: 5px; margin: 10px 5px; line-height:4;">Linkedin</span>
-</a>
+</a> -->
  
 <!-- #### [Telegram](https://t.me/carloscorredorwg)
 #### [Email](http://gmail.com)
@@ -102,7 +102,7 @@ style="border: solid 1px; border-radius: 5px; background: olive; padding: 5px; m
   style="margin: 0 10px;"
  />
  <img
-  src="https://media-private.canva.com/nMJ98/MAEqA0nMJ98/1/t.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20210916%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210916T123215Z&X-Amz-Expires=26958&X-Amz-Signature=95128d229ea9824b59458472acdc7eb949ef9bf6f8d45697184dd40c9671311a&X-Amz-SignedHeaders=host&response-expires=Thu%2C%2016%20Sep%202021%2020%3A01%3A33%20GMT"
+  src="./images/js-2.png"
   alt="JS"
   height="50"
   style="margin: 0 5px;"
@@ -186,13 +186,13 @@ style="border: solid 1px; border-radius: 5px; background: olive; padding: 5px; m
   style="margin: 0 10px;"
  />
  <img
-  src="https://media-private.canva.com/2RFGg/MAEqBA2RFGg/1/t.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20210916%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210916T132534Z&X-Amz-Expires=25874&X-Amz-Signature=d591bd17aa5c90a9d9791404373d24d756a50e7d56eac50c7f2fe22d2337df90&X-Amz-SignedHeaders=host&response-expires=Thu%2C%2016%20Sep%202021%2020%3A36%3A48%20GMT"
+  src="./images/mocha.png"
   alt="Mocha"
   height="50"
   style="margin: 0 10px;"
  />
  <img
-  src="https://media-private.canva.com/4LRTA/MAEqBH4LRTA/1/t.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20210916%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210916T030022Z&X-Amz-Expires=63831&X-Amz-Signature=031f7fbb53670978d9fd4a3d6c0722bacfc26cc2b8dd91b1dc16b7812e67b6f5&X-Amz-SignedHeaders=host&response-expires=Thu%2C%2016%20Sep%202021%2020%3A44%3A13%20GMT"
+  src="./images/chai.png"
   alt="Chai"
   height="50"
   style="margin: 0 10px;"
@@ -214,7 +214,7 @@ style="border: solid 1px; border-radius: 5px; background: olive; padding: 5px; m
 <br/>
 <br/>
 <img
-  src="https://media-private.canva.com/DFIck/MAEqBaDFIck/1/t.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20210915%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210915T185928Z&X-Amz-Expires=92373&X-Amz-Signature=40ac5f03f6f83323a5243f3f2d8811c0bca9f2ccedce53d154a5a0149e8ed5a8&X-Amz-SignedHeaders=host&response-expires=Thu%2C%2016%20Sep%202021%2020%3A39%3A01%20GMT"
+  src="./images/scrum.png"
   alt="Scrum"
   height="50"
   style="margin: 0 10px;"
@@ -246,7 +246,7 @@ style="border: solid 1px; border-radius: 5px; background: olive; padding: 5px; m
 <br/>
 <br/>
  <img
-  src="https://media-private.canva.com/76PJ8/MAEqBH76PJ8/1/t.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20210915%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210915T214213Z&X-Amz-Expires=82328&X-Amz-Signature=67ae95f791c54384609a29ac26c6e84d5acdc026f51712dc3ae0f07454c6ebf8&X-Amz-SignedHeaders=host&response-expires=Thu%2C%2016%20Sep%202021%2020%3A34%3A21%20GMT"
+  src="./images/octave.png"
   alt="Octave"
   height="50"
   style="margin: 0 10px;"
