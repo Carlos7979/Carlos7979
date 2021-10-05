@@ -208,8 +208,8 @@ style="border: solid 1px; border-radius: 5px; background: olive; padding: 5px; m
 style="border: solid 1px; border-radius: 5px; background: olive; padding: 5px; margin: 10px 5px; line-height:4;">Agile</span>
 <span 
 style="border: solid 1px; border-radius: 5px; background: olive; padding: 5px; margin: 10px 5px; line-height:4;">Git</span>
-<span 
-style="border: solid 1px; border-radius: 5px; background: olive; padding: 5px; margin: 10px 5px; line-height:4;">Trello</span>
+<!-- <span 
+style="border: solid 1px; border-radius: 5px; background: olive; padding: 5px; margin: 10px 5px; line-height:4;">Trello</span> -->
 <span 
 style="border: solid 1px; border-radius: 5px; background: olive; padding: 5px; margin: 10px 5px; line-height:4;">Slack</span>
 <br/>
@@ -226,12 +226,12 @@ style="border: solid 1px; border-radius: 5px; background: olive; padding: 5px; m
   height="50"
   style="margin: 0 10px;"
  />
- <img
+ <!-- <img
   src="https://media-public.canva.com/MADnA-1owQ0/1/thumbnail.png"
   alt="Trello"
   height="50"
   style="margin: 0 10px;"
- />
+ /> -->
  <img
   src="https://media-public.canva.com/MADnA_yXT9Q/1/thumbnail.png"
   alt="Slack"
