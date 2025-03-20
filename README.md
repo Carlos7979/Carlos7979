@@ -267,7 +267,7 @@ style="border: solid 1px; border-radius: 5px; background: olive; padding: 5px; m
 </ul>
 
 ---
-## [CV](./downloads/Curriculum-Carlos-Corredor.pdf)
+## [CV](./downloads/Carlos-Corredor-CV.pdf)
 
 <!--
 **Carlos7979/Carlos7979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
