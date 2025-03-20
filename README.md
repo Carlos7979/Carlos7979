@@ -258,6 +258,7 @@ style="border: solid 1px; border-radius: 5px; background: olive; padding: 5px; m
 <!-- ### [Food calendar](https://github.com/AgustinKowalczuk/PG-FoodCalendar/tree/CopiaSeguridad")
 ### [Dogs](https://github.com/Carlos7979/PI-Dogs-FT15a) -->
 <ul>
+  <li><a href="https://github.com/Carlos7979/vue-project" target="_blank">Vue Bakery</a></li>
   <li><a href="https://github.com/AgustinKowalczuk/PG-FoodCalendar/tree/CopiaSeguridad" target="_blank">Food calendar</a></li>
   <li><a href="https://github.com/Carlos7979/PI-Dogs-FT15a" target="_blank">Dogs</a></li>
   <li><a href="https://github.com/Carlos7979/cf-mce/tree/develop" target="_blank">Control de flujos de módulos de control electrónicos</a></li>
